@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(112, 216, 135);
+    text-align: center;
+}
+#container{
+    text-align: center;
+    margin-top: 100px;
+}
+#pagination{
+    text-align: center;
+    margin-top: 30px;
+}
+button{
+    background-color: rgb(98, 69, 201);
+    color: white;
+    outline: none;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+}
